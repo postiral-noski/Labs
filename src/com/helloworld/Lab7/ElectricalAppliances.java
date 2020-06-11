@@ -1,4 +1,4 @@
-package OOP.Lab7_8;
+package OOP.Lab7;
 
 public class ElectricalAppliances {
     private int power;
